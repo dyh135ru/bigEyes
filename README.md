@@ -1,4 +1,4 @@
-# Pacman Exercise
+# Big Eyes
 
 _This is an exercise developed during the course Mit xPro. It consists in two eyes that follow your mouse._
 
